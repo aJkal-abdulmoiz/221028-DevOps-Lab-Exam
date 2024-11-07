@@ -1,0 +1,6 @@
+"Initialized repository" 
+"git remote add origin https://github.com/aJkal-abdulmoiz/221028-DevOps-Lab-Exam.git" 
+"git checkout -b main" 
+"git checkout -b develop"
+"git checkout -b feature/database-service"
+"git checkout -b feature/cache-service"
