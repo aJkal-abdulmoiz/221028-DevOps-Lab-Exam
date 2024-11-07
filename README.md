@@ -17,7 +17,11 @@ To run both services using Docker Compose, follow these steps:
    ```bash
    git clone https://github.com/your-username/221028-DevOps-Lab-Exam.git
    cd 221028-DevOps-Lab-Exam
-   
+
+### Purpose of the `.env` File:
+The `.env` file is like a secret configuration where you store important settings for your application, such as database passwords or API keys. Instead of hardcoding this sensitive information in the `.env` file.
+
+
 ## Running Services with Docker Compose
 
 To run both services, execute:
